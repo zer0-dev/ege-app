@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/ege-app/static/js/main.b8d614a3.chunk.js",
+    "main.js.map": "/ege-app/static/js/main.b8d614a3.chunk.js.map",
+    "runtime-main.js": "/ege-app/static/js/runtime-main.afea3395.js",
+    "runtime-main.js.map": "/ege-app/static/js/runtime-main.afea3395.js.map",
+    "static/css/2.7df98e73.chunk.css": "/ege-app/static/css/2.7df98e73.chunk.css",
+    "static/js/2.4f19823b.chunk.js": "/ege-app/static/js/2.4f19823b.chunk.js",
+    "static/js/2.4f19823b.chunk.js.map": "/ege-app/static/js/2.4f19823b.chunk.js.map",
+    "index.html": "/ege-app/index.html",
+    "static/css/2.7df98e73.chunk.css.map": "/ege-app/static/css/2.7df98e73.chunk.css.map",
+    "static/js/2.4f19823b.chunk.js.LICENSE.txt": "/ege-app/static/js/2.4f19823b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afea3395.js",
+    "static/css/2.7df98e73.chunk.css",
+    "static/js/2.4f19823b.chunk.js",
+    "static/js/main.b8d614a3.chunk.js"
+  ]
+}
